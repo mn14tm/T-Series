@@ -5,8 +5,6 @@
 *.FL
 *.MAT
 *.DS_Store
-*.txt
-*.csv
 *.sp
 
 Microscope/
