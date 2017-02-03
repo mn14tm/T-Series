@@ -1,0 +1,11 @@
+Measurements performed over 2 days. Day 2 only included the following samples 
+(note that sample1 corresponds to chip T1):
+
+Spectrosil2000
+T1
+T10
+T26
+T27
+
+This was because these measurements were not performed correctly on the first day. 
+UV-VIS was recallibrated on second day.

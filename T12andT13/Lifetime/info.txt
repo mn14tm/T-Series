@@ -1,0 +1,1 @@
+0.4a 2ms pump, 100ms period. 250 sweeps. 0.23W.
